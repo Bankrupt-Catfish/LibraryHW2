@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect Designer 9.6-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_6pU3wAIBEeeCJq0zUQ0B8w" type="Class" name="classdiagram.dnx">
+  <eAnnotations xmi:id="_6pU3wQIBEeeCJq0zUQ0B8w" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_6pVe0AIBEeeCJq0zUQ0B8w" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6w6tgAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xWLUAIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xWLUQIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xWyYAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xWyYQIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xWyYgIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xWyYwIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xZOoAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xZOoQIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6w6tgQIBEeeCJq0zUQ0B8w" x="9193" y="16484"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xZ1sAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xZ1sgIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xZ1swIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xacwAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xacwQIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xacwgIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xacwwIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xcR8AIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xcR8QIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Article%5Bjcu%5Ename=Article.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xZ1sQIBEeeCJq0zUQ0B8w" x="2219" y="69740"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xcR8gIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xc5AAIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xc5AQIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xc5AgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xdgEAIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xdgEQIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xdgEgIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xeuMAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xeuMQIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xcR8wIBEeeCJq0zUQ0B8w" x="13314" y="58645"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xfVQAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xfVQgIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xfVQwIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xf8UAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xf8UQIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xf8UgIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xf8UwIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xhKcAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xhKcQIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Faculty%5Bjcu%5Ename=Faculty.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xfVQQIBEeeCJq0zUQ0B8w" x="3170" y="30115"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xhKcgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xhxgAIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xhxgQIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xhxggIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xhxgwIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xhxhAIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xhxhQIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xjmsAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xjmsQIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xhKcwIBEeeCJq0zUQ0B8w" x="16484" y="28530"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xjmsgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xkNwAIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xkNwQIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xkNwgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xkNwwIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xk00AIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xk00QIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xlb4AIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xmC8AIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Student%5Bjcu%5Ename=Student.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xjmswIBEeeCJq0zUQ0B8w" x="12680" y="38357"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xmC8QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xmC8wIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xmC9AIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xmqAAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xmqAQIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xmqAgIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xmqAwIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xofMAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xofMQIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xmC8gIBEeeCJq0zUQ0B8w" x="5072" y="57060"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xofMgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xpGQAIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xpGQQIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xpGQgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xpGQwIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xpGRAIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xpGRQIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xsJkAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xsJkQIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xofMwIBEeeCJq0zUQ0B8w" x="10778"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xswoAIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xswoQIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xswogIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xswowIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xswpAIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xswpQIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xt-wAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xul0AIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xsJkwIBEeeCJq0zUQ0B8w" x="11412" y="67838"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xvM4AIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xvM4QIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xvM4gIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xvM4wIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xvM5AIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xvM5QIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xxCEAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xxpIAIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xul0gIBEeeCJq0zUQ0B8w" x="10778" y="44380"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_6xxpIQIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xxpIwIBEeeCJq0zUQ0B8w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_6xxpJAIBEeeCJq0zUQ0B8w" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xyQMAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xyQMQIBEeeCJq0zUQ0B8w" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6xyQMgIBEeeCJq0zUQ0B8w" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6xyQMwIBEeeCJq0zUQ0B8w" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6x0FYAIBEeeCJq0zUQ0B8w" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_6x0FYQIBEeeCJq0zUQ0B8w" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xxpIgIBEeeCJq0zUQ0B8w" x="3804" y="10778"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63eogAIBEeeCJq0zUQ0B8w" source="_6w6tgAIBEeeCJq0zUQ0B8w" target="_6xcR8gIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63fPkAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63fPkgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63fPlAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63fPkwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63fPkQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63eogQIBEeeCJq0zUQ0B8w" points="[59, 104, -1550, -33107]$[59, 9270, -1550, -23941]$[2769, 9270, 1160, -23941]$[2769, 26496, 1160, -6715]$[1649, 26496, 40, -6715]$[1649, 33211, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67PHIAIBEeeCJq0zUQ0B8w" id="(0.7500867453157529,0.9885346145446604)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67PuMAIBEeeCJq0zUQ0B8w" id="(0.5001635418137532,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63f2oAIBEeeCJq0zUQ0B8w" source="_6w6tgAIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63f2ogIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63f2pAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63f2pgIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63f2pQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63f2owIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63f2oQIBEeeCJq0zUQ0B8w" points="[50, 104, 16, -19080]$[50, 2854, 16, -16330]$[-749, 2854, -783, -16330]$[-749, 16010, -783, -3174]$[74, 16010, 40, -3174]$[74, 19184, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67QVQAIBEeeCJq0zUQ0B8w" id="(0.6250867453157526,0.9885346145446604)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67QVQQIBEeeCJq0zUQ0B8w" id="(0.5001781977377396,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63f2pwIBEeeCJq0zUQ0B8w" source="_6w6tgAIBEeeCJq0zUQ0B8w" target="_6xhKcgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63gdsAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63gdsgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63gdtAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63gdswIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63gdsQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63f2qAIBEeeCJq0zUQ0B8w" points="[70, 104, -3254, -3279]$[70, 738, -3254, -2645]$[3350, 738, 26, -2645]$[3350, 3383, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67Q8UAIBEeeCJq0zUQ0B8w" id="(0.8750867453157529,0.9885346145446604)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67Q8UQIBEeeCJq0zUQ0B8w" id="(0.33333370663704126,-6.789807404053216E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63gdtQIBEeeCJq0zUQ0B8w" source="_6w6tgAIBEeeCJq0zUQ0B8w" target="_6xmC8QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63hEwAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63hEwgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63hExAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63hEwwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63hEwQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63gdtgIBEeeCJq0zUQ0B8w" points="[20, 104, 3349, -31682]$[20, 1267, 3349, -30519]$[-861, 1267, 2468, -30519]$[-861, 29141, 2468, -2645]$[-3289, 29141, 40, -2645]$[-3289, 31786, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67RjYAIBEeeCJq0zUQ0B8w" id="(0.25008674531575265,0.9885346145446604)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67RjYQIBEeeCJq0zUQ0B8w" id="(0.5001480894343082,-8.86447077751392E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63hExQIBEeeCJq0zUQ0B8w" source="_6w6tgAIBEeeCJq0zUQ0B8w" target="_6xZ1sAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63hr0AIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63hr0gIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63hr1AIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63hr0wIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63hr0QIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Article%5Bjcu%5Ename=Article.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63hExgIBEeeCJq0zUQ0B8w" points="[10, 104, 6077, -44197]$[10, 738, 6077, -43563]$[-680, 738, 5387, -43563]$[-680, 28612, 5387, -15689]$[-6028, 28612, 39, -15689]$[-6028, 44301, 39, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67SKcAIBEeeCJq0zUQ0B8w" id="(0.12508674531575295,0.9885346145446604)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67SKcQIBEeeCJq0zUQ0B8w" id="(0.5001348599442248,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63hr1QIBEeeCJq0zUQ0B8w" source="_6w6tgAIBEeeCJq0zUQ0B8w" target="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63hr1wIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63iS4AIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63iS4gIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63iS4QIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63hr2AIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63hr1gIBEeeCJq0zUQ0B8w" points="[30, 104, -1456, -42535]$[30, 1796, -1456, -40843]$[-1043, 1796, -2529, -40843]$[-1043, 41052, -2529, -1587]$[1512, 41052, 26, -1587]$[1512, 42639, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67SxgAIBEeeCJq0zUQ0B8w" id="(0.3750867453157529,0.9885346145446604)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67SxgQIBEeeCJq0zUQ0B8w" id="(0.33338704278714637,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63iS4wIBEeeCJq0zUQ0B8w" source="_6xcR8gIBEeeCJq0zUQ0B8w" target="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63iS5QIBEeeCJq0zUQ0B8w" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63i58AIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63i58QIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63iS5gIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63iS5AIBEeeCJq0zUQ0B8w" points="[53, 103, 1449, -4175]$[53, 2691, 1449, -1587]$[-1343, 2691, 53, -1587]$[-1343, 4278, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67TYkAIBEeeCJq0zUQ0B8w" id="(0.6668303004094883,0.9804031354983189)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67TYkQIBEeeCJq0zUQ0B8w" id="(0.6667204503048085,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63i58gIBEeeCJq0zUQ0B8w" source="_6xcR8gIBEeeCJq0zUQ0B8w" target="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63i59AIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63i59gIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63jhAQIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63jhAAIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63i59QIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63i58wIBEeeCJq0zUQ0B8w" points="[26, 103, 746, -4175]$[26, 2162, 746, -2116]$[-676, 2162, 44, -2116]$[-676, 4278, 44, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67T_oAIBEeeCJq0zUQ0B8w" id="(0.333496783218017,0.9804031354983189)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67T_oQIBEeeCJq0zUQ0B8w" id="(0.5556093144655879,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63jhAgIBEeeCJq0zUQ0B8w" source="_6xfVQAIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63jhBAIBEeeCJq0zUQ0B8w" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63jhBgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63jhBwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63jhBQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Faculty%5Bjcu%5Ename=Faculty.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63jhAwIBEeeCJq0zUQ0B8w" points="[53, 101, -6873, -11973]$[53, 9958, -6873, -2116]$[6952, 9958, 26, -2116]$[6952, 12074, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67UmsAIBEeeCJq0zUQ0B8w" id="(0.6666666666666666,0.9581339712918646)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67UmsQIBEeeCJq0zUQ0B8w" id="(0.33351153107107295,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63kIEAIBEeeCJq0zUQ0B8w" source="_6xfVQAIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63kIEgIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63kIFAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63kIFgIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63kIFQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63kIEwIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Faculty%5Bjcu%5Ename=Faculty.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63kIEQIBEeeCJq0zUQ0B8w" points="[27, 101, -7602, -11973]$[27, 10487, -7602, -1587]$[7648, 10487, 19, -1587]$[7648, 12074, 19, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67VNwAIBEeeCJq0zUQ0B8w" id="(0.3333333333333333,0.9581339712918646)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67VNwQIBEeeCJq0zUQ0B8w" id="(0.2501781977377396,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63kIFwIBEeeCJq0zUQ0B8w" source="_6xhKcgIBEeeCJq0zUQ0B8w" target="_6xmC8QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63kvIAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63kvIgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63kvJAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63kvIwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63kvIQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63kIGAIBEeeCJq0zUQ0B8w" points="[45, 103, 9477, -23150]$[45, 21666, 9477, -1587]$[-9366, 21666, 66, -1587]$[-9366, 23253, 66, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67VNwgIBEeeCJq0zUQ0B8w" id="(0.5714290513904816,0.9804031354983203)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67V00AIBEeeCJq0zUQ0B8w" id="(0.8334814564166839,-8.86447077751392E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63kvJQIBEeeCJq0zUQ0B8w" source="_6xhKcgIBEeeCJq0zUQ0B8w" target="_6xjmsgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63lWMAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63lWMgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63lWNAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63lWMwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63lWMQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Student%5Bjcu%5Ename=Student.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63kvJgIBEeeCJq0zUQ0B8w" points="[12, 103, 2008, -4337]$[12, 1795, 2008, -2645]$[-1937, 1795, 59, -2645]$[-1937, 4440, 59, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67V00QIBEeeCJq0zUQ0B8w" id="(0.14285698286983944,0.9804031354983203)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67Wb4AIBEeeCJq0zUQ0B8w" id="(0.7499999999999994,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63lWNQIBEeeCJq0zUQ0B8w" source="_6xhKcgIBEeeCJq0zUQ0B8w" target="_6xcR8gIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63l9QAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63l9QgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63l9RAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63l9QwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63l9QQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63lWNgIBEeeCJq0zUQ0B8w" points="[56, 103, 3203, -24575]$[56, 22195, 3203, -2483]$[-3094, 22195, 53, -2483]$[-3094, 24678, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67Wb4QIBEeeCJq0zUQ0B8w" id="(0.7142860342603211,0.9804031354983203)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67XC8AIBEeeCJq0zUQ0B8w" id="(0.6668303004094883,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63l9RQIBEeeCJq0zUQ0B8w" source="_6xhKcgIBEeeCJq0zUQ0B8w" target="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63mkUAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63mkUgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63mkVAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63mkUwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63mkUQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63l9RgIBEeeCJq0zUQ0B8w" points="[67, 103, 4618, -34003]$[67, 33048, 4618, -1058]$[-4489, 33048, 62, -1058]$[-4489, 34106, 62, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67XC8QIBEeeCJq0zUQ0B8w" id="(0.8571435770857225,0.9804031354983203)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67XqAAIBEeeCJq0zUQ0B8w" id="(0.7778315861440288,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63mkVQIBEeeCJq0zUQ0B8w" source="_6xhKcgIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63nLYAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63nLYgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63nLZAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63nLYwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63nLYQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63mkVgIBEeeCJq0zUQ0B8w" points="[33, 103, 3756, -10548]$[33, 9064, 3756, -1587]$[-3657, 9064, 66, -1587]$[-3657, 10651, 66, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67XqAQIBEeeCJq0zUQ0B8w" id="(0.4285720685206422,0.9804031354983203)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67YREAIBEeeCJq0zUQ0B8w" id="(0.8335115310710729,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63nLZQIBEeeCJq0zUQ0B8w" source="_6xjmsgIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63nLZwIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63nycQIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63nycwIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63nycgIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63nycAIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Student%5Bjcu%5Ename=Student.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63nLZgIBEeeCJq0zUQ0B8w" points="[53, 101, 1203, -3808]$[53, 1264, 1203, -2645]$[-1098, 1264, 52, -2645]$[-1098, 3909, 52, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67YREQIBEeeCJq0zUQ0B8w" id="(0.6666666666666661,0.9581339712918661)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67Y4IAIBEeeCJq0zUQ0B8w" id="(0.6668448644044063,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63nydAIBEeeCJq0zUQ0B8w" source="_6xjmsgIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63nydgIBEeeCJq0zUQ0B8w" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63oZgAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63oZgQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63nydwIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Student%5Bjcu%5Ename=Student.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63nydQIBEeeCJq0zUQ0B8w" points="[27, 101, 475, -3808]$[27, 735, 475, -3174]$[-402, 735, 46, -3174]$[-402, 3909, 46, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67Y4IQIBEeeCJq0zUQ0B8w" id="(0.33333333333333276,0.9581339712918661)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67ZfMAIBEeeCJq0zUQ0B8w" id="(0.5835115310710725,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63oZggIBEeeCJq0zUQ0B8w" source="_6xmC8QIBEeeCJq0zUQ0B8w" target="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63oZhAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63oZhgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63oZiAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63oZhwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63oZhQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63oZgwIBEeeCJq0zUQ0B8w" points="[59, 104, -3798, -2750]$[59, 1796, -3798, -1058]$[3875, 1796, 18, -1058]$[3875, 2854, 18, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67ZfMQIBEeeCJq0zUQ0B8w" id="(0.7501479884871818,0.9872076023391804)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67aGQAIBEeeCJq0zUQ0B8w" id="(0.22227590694792615,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63pAkAIBEeeCJq0zUQ0B8w" source="_6xmC8QIBEeeCJq0zUQ0B8w" target="_6xZ1sAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63pAkgIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63pAlAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63pAlgIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63pAlQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63pAkwIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Article%5Bjcu%5Ename=Article.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63pAkQIBEeeCJq0zUQ0B8w" points="[19, 104, 1413, -4412]$[19, 738, 1413, -3778]$[-1334, 738, 60, -3778]$[-1334, 4516, 60, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67aGQQIBEeeCJq0zUQ0B8w" id="(0.2501479884871821,0.9872076023391804)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67atUAIBEeeCJq0zUQ0B8w" id="(0.7501348599442248,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63pnoAIBEeeCJq0zUQ0B8w" source="_6xmC8QIBEeeCJq0zUQ0B8w" target="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63pnogIBEeeCJq0zUQ0B8w" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63pnpAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63pnpQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63pnowIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63pnoQIBEeeCJq0zUQ0B8w" points="[40, 104, -4529, -2750]$[40, 2325, -4529, -529]$[4577, 2325, 8, -529]$[4577, 2854, 8, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67atUQIBEeeCJq0zUQ0B8w" id="(0.500147988487182,0.9872076023391804)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67bUYAIBEeeCJq0zUQ0B8w" id="(0.11116477110870515,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63pnpgIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6w6tgAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63qOsAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63qOsgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63qOtAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63qOswIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63qOsQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63pnpwIBEeeCJq0zUQ0B8w" points="[36, 104, -571, -8907]$[36, 6895, -571, -2116]$[660, 6895, 53, -2116]$[660, 9011, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67bUYQIBEeeCJq0zUQ0B8w" id="(0.45459799876043844,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67b7cAIBEeeCJq0zUQ0B8w" id="(0.6667534684572343,-1.9862299667458576E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63qOtQIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xcR8gIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63qOtwIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63q1wQIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63q1wwIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63q1wgIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63q1wAIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63qOtgIBEeeCJq0zUQ0B8w" points="[65, 104, -2415, -51067]$[65, 1267, -2415, -49904]$[7161, 1267, 4681, -49904]$[7161, 49217, 4681, -1954]$[2546, 49217, 66, -1954]$[2546, 51171, 66, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67b7cQIBEeeCJq0zUQ0B8w" id="(0.8182345014026617,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67cigAIBEeeCJq0zUQ0B8w" id="(0.8334970590052245,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63q1xAIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xhKcgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63q1xgIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63q1yAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63rc0QIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63rc0AIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63q1xwIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63q1xQIBEeeCJq0zUQ0B8w" points="[50, 104, -5519, -21239]$[50, 2325, -5519, -19018]$[5622, 2325, 53, -19018]$[5622, 21343, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67cigQIBEeeCJq0zUQ0B8w" id="(0.6364159952374734,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67dJkAIBEeeCJq0zUQ0B8w" id="(0.6666668533185206,-6.789807404053216E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63rc0gIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63rc1AIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63rc1gIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63sD4AIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63rc1wIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63rc1QIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63rc0wIBEeeCJq0zUQ0B8w" points="[58, 104, -964, -37040]$[58, 1796, -964, -35348]$[6973, 1796, 5951, -35348]$[6973, 36086, 5951, -1058]$[1094, 36086, 72, -1058]$[1094, 37144, 72, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67dJkQIBEeeCJq0zUQ0B8w" id="(0.7273252483200674,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67dJkgIBEeeCJq0zUQ0B8w" id="(0.9168448644044058,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63sD4QIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xxpIQIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63sD4wIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63sD5QIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63sD5wIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63sD5gIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63sD5AIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63sD4gIBEeeCJq0zUQ0B8w" points="[22, 104, 6248, -3279]$[22, 1796, 6248, -1587]$[-6186, 1796, 40, -1587]$[-6186, 3383, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67dwoAIBEeeCJq0zUQ0B8w" id="(0.27277949259525053,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67dwoQIBEeeCJq0zUQ0B8w" id="(0.50015019525383,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63sq8AIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63sq8gIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63sq9AIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63sq9gIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63sq9QIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63sq8wIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63sq8QIBEeeCJq0zUQ0B8w" points="[71, 104, -1052, -60495]$[71, 738, -1052, -59861]$[7348, 738, 6225, -59861]$[7348, 60070, 6225, -529]$[1193, 60070, 70, -529]$[1193, 60599, 70, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67eXsAIBEeeCJq0zUQ0B8w" id="(0.909143499641179,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67eXsQIBEeeCJq0zUQ0B8w" id="(0.8889427219832493,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63sq9wIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xjmsgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63tSAAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63tSAgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63tSBAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63tSAwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63tSAQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Student%5Bjcu%5Ename=Student.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63sq-AIBEeeCJq0zUQ0B8w" points="[43, 104, -1312, -30829]$[43, 2854, -1312, -28079]$[2769, 2854, 1414, -28079]$[2769, 27759, 1414, -3174]$[1394, 27759, 39, -3174]$[1394, 30933, 39, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67e-wAIBEeeCJq0zUQ0B8w" id="(0.5455069969989557,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67e-wQIBEeeCJq0zUQ0B8w" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63tSBQIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xfVQAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63t5EAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63t5EgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63t5FAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63t5EwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63t5EQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Faculty%5Bjcu%5Ename=Faculty.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63tSBgIBEeeCJq0zUQ0B8w" points="[29, 104, 6865, -22664]$[29, 2325, 6865, -20443]$[-3370, 2325, 3466, -20443]$[-3370, 19227, 3466, -3541]$[-6783, 19227, 53, -3541]$[-6783, 22768, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67fl0AIBEeeCJq0zUQ0B8w" id="(0.363688745677844,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67fl0QIBEeeCJq0zUQ0B8w" id="(0.6666666666666666,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63t5FQIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xZ1sAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63t5FwIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63ugIAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63ugIgIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63ugIQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63t5GAIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Article%5Bjcu%5Ename=Article.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63t5FgIBEeeCJq0zUQ0B8w" points="[7, 104, 8047, -62157]$[7, 738, 8047, -61523]$[-11048, 738, -3008, -61523]$[-11048, 58483, -3008, -3778]$[-8020, 58483, 20, -3778]$[-8020, 62261, 20, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67gM4AIBEeeCJq0zUQ0B8w" id="(0.09096149611821455,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67gM4QIBEeeCJq0zUQ0B8w" id="(0.2501348599442248,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63ugIwIBEeeCJq0zUQ0B8w" source="_6xofMgIBEeeCJq0zUQ0B8w" target="_6xmC8QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63ugJQIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63ugJwIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63vHMAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63ugKAIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63ugJgIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Console%5Bjcu%5Ename=Console.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63ugJAIBEeeCJq0zUQ0B8w" points="[14, 104, 5667, -49642]$[14, 1267, 5667, -48479]$[-10860, 1267, -5207, -48479]$[-10860, 46043, -5207, -3703]$[-5640, 46043, 13, -3703]$[-5640, 49746, 13, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67gz8AIBEeeCJq0zUQ0B8w" id="(0.1818704943567323,0.9860871869617066)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67gz8QIBEeeCJq0zUQ0B8w" id="(0.16681472245193302,-8.86447077751392E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63vHMQIBEeeCJq0zUQ0B8w" source="_6xul0QIBEeeCJq0zUQ0B8w" target="_6xsJkgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63vHMwIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63vHNQIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63vHNwIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63vHNgIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63vHNAIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Document%5Bjcu%5Ename=Document.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63vHMgIBEeeCJq0zUQ0B8w" points="[40, 104, -470, -16777]$[40, 1796, -470, -15085]$[21, 1796, -489, -15085]$[21, 14765, -489, -2116]$[545, 14765, 35, -2116]$[545, 16881, 35, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67hbAAIBEeeCJq0zUQ0B8w" id="(0.5001781977377396,0.9845201238390082)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67hbAQIBEeeCJq0zUQ0B8w" id="(0.44449817862636737,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63vuQAIBEeeCJq0zUQ0B8w" source="_6xul0QIBEeeCJq0zUQ0B8w" target="_6xcR8gIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63vuQgIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63vuRAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63vuRgIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63vuRQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63vuQwIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63vuQQIBEeeCJq0zUQ0B8w" points="[59, 104, -665, -7349]$[59, 738, -665, -6715]$[750, 738, 26, -6715]$[750, 7453, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67iCEAIBEeeCJq0zUQ0B8w" id="(0.7501781977377396,0.9845201238390082)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67iCEQIBEeeCJq0zUQ0B8w" id="(0.333496783218017,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63vuRwIBEeeCJq0zUQ0B8w" source="_6xul0QIBEeeCJq0zUQ0B8w" target="_6w6tgAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63wVUAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63wVUgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63wVVAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63wVUwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63wVUQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63vuSAIBEeeCJq0zUQ0B8w" points="[33, 0, 450, 19184]$[33, -2645, 450, 16539]$[-984, -2645, -567, 16539]$[-984, -16859, -567, 2325]$[-377, -16859, 40, 2325]$[-377, -19080, 40, 104]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67ipIAIBEeeCJq0zUQ0B8w" id="(0.4168448644044058,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67ipIQIBEeeCJq0zUQ0B8w" id="(0.5000867453157529,0.9885346145446604)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63wVVQIBEeeCJq0zUQ0B8w" source="_6xul0QIBEeeCJq0zUQ0B8w" target="_6xmC8QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63w8YAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63w8YgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63w8ZAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63w8YwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63w8YQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63wVVgIBEeeCJq0zUQ0B8w" points="[19, 104, 3737, -5924]$[19, 3912, 3737, -2116]$[-3665, 3912, 53, -2116]$[-3665, 6028, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67jQMAIBEeeCJq0zUQ0B8w" id="(0.2501781977377396,0.9845201238390082)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67jQMQIBEeeCJq0zUQ0B8w" id="(0.6668147224519329,-8.86447077751392E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63w8ZQIBEeeCJq0zUQ0B8w" source="_6xul0QIBEeeCJq0zUQ0B8w" target="_6xhKcgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63xjcAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63xjcgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63xjdAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63xjcwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63xjcQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Loan%5Bjcu%5Ename=Loan.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63w8ZgIBEeeCJq0zUQ0B8w" points="[59, 0, -3505, 10651]$[59, -2116, -3505, 8535]$[3586, -2116, 22, 8535]$[3586, -10548, 22, 103]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67jQMgIBEeeCJq0zUQ0B8w" id="(0.7501781977377396,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67j3QAIBEeeCJq0zUQ0B8w" id="(0.2857145256952408,0.9804031354983203)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63xjdQIBEeeCJq0zUQ0B8w" source="_6xxpIQIBEeeCJq0zUQ0B8w" target="_6xfVQAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63xjdwIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63yKgAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63yKggIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63yKgQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63xjeAIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Faculty%5Bjcu%5Ename=Faculty.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63xjdgIBEeeCJq0zUQ0B8w" points="[50, 102, 1756, -16507]$[50, 12539, 1756, -4070]$[-1679, 12539, 27, -4070]$[-1679, 16609, 27, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67j3QQIBEeeCJq0zUQ0B8w" id="(0.6251501952538298,0.9648005363727785)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67keUAIBEeeCJq0zUQ0B8w" id="(0.3333333333333333,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63yKgwIBEeeCJq0zUQ0B8w" source="_6xxpIQIBEeeCJq0zUQ0B8w" target="_6xjmsgIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63yKhQIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63yKhwIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63yxkQIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63yxkAIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63yKhgIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Student%5Bjcu%5Ename=Student.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63yKhAIBEeeCJq0zUQ0B8w" points="[40, 102, -7792, -24672]$[40, 2323, -7792, -22451]$[-2859, 2323, -10691, -22451]$[-2859, 21600, -10691, -3174]$[7851, 21600, 19, -3174]$[7851, 24774, 19, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67lFYAIBEeeCJq0zUQ0B8w" id="(0.50015019525383,0.9648005363727785)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67lFYQIBEeeCJq0zUQ0B8w" id="(0.25,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63yxkgIBEeeCJq0zUQ0B8w" source="_6xxpIQIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63yxlAIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63yxlgIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63zYoAIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63yxlwIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63yxlQIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63yxkwIBEeeCJq0zUQ0B8w" points="[20, 102, -6465, -30883]$[20, 1265, -6465, -29720]$[-3104, 1265, -9589, -29720]$[-3104, 30456, -9589, -529]$[6492, 30456, 7, -529]$[6492, 30985, 7, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67lFYgIBEeeCJq0zUQ0B8w" id="(0.2501501952538297,0.9648005363727785)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67lscAIBEeeCJq0zUQ0B8w" id="(0.08351153107107294,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_63z_sAIBEeeCJq0zUQ0B8w" source="_6xxpIQIBEeeCJq0zUQ0B8w" target="_6xul0QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63z_sgIBEeeCJq0zUQ0B8w" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63z_tAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63z_tQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63z_swIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=User%5Bjcu%5Ename=User.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_63z_sQIBEeeCJq0zUQ0B8w" points="[29, 102, -6378, -30883]$[29, 1794, -6378, -29191]$[-2982, 1794, -9389, -29191]$[-2982, 29927, -9389, -1058]$[6420, 29927, 13, -1058]$[6420, 30985, 13, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67lscQIBEeeCJq0zUQ0B8w" id="(0.37515019525383,0.9648005363727785)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67mTgAIBEeeCJq0zUQ0B8w" id="(0.16684486440440582,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_630mwAIBEeeCJq0zUQ0B8w" source="_6xxpIQIBEeeCJq0zUQ0B8w" target="_6xmC8QIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_630mwgIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_630mxAIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_630mxgIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_630mxQIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_630mwwIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Journal%5Bjcu%5Ename=Journal.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_630mwQIBEeeCJq0zUQ0B8w" points="[10, 102, -2234, -43485]$[10, 736, -2234, -42851]$[-3227, 736, -5471, -42851]$[-3227, 39355, -5471, -4232]$[2271, 39355, 27, -4232]$[2271, 43587, 27, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67mTgQIBEeeCJq0zUQ0B8w" id="(0.12515019525382998,0.9648005363727785)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67m6kAIBEeeCJq0zUQ0B8w" id="(0.3334813554695576,-8.86447077751392E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_631N0AIBEeeCJq0zUQ0B8w" source="_6xxpIQIBEeeCJq0zUQ0B8w" target="_6xcR8gIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_631N0gIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_631N1AIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_631N1gIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_631N1QIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_631N0wIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Book%5Bjcu%5Ename=Book.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_631N0QIBEeeCJq0zUQ0B8w" points="[60, 102, -7573, -44910]$[60, 1265, -7573, -43747]$[558, 1265, -7075, -43747]$[558, 38826, -7075, -6186]$[7646, 38826, 13, -6186]$[7646, 45012, 13, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67m6kQIBEeeCJq0zUQ0B8w" id="(0.75015019525383,0.9648005363727785)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67nhoAIBEeeCJq0zUQ0B8w" id="(0.16683030040948832,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_631N1wIBEeeCJq0zUQ0B8w" source="_6xxpIQIBEeeCJq0zUQ0B8w" target="_6w6tgAIBEeeCJq0zUQ0B8w" fontName="Ubuntu" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_63104AIBEeeCJq0zUQ0B8w" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63104gIBEeeCJq0zUQ0B8w" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63105AIBEeeCJq0zUQ0B8w" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_63104wIBEeeCJq0zUQ0B8w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_63104QIBEeeCJq0zUQ0B8w" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Librarian%5Bjcu%5Ename=Librarian.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=LibDirectory%5Bjcu%5Ename=LibDirectory.java%5Bjpack%5Ename=%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=LibSat%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_631N2AIBEeeCJq0zUQ0B8w" points="[69, 102, -4333, -2750]$[69, 736, -4333, -2116]$[4428, 736, 26, -2116]$[4428, 2852, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67nhoQIBEeeCJq0zUQ0B8w" id="(0.8751501952538298,0.9648005363727785)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_67oIsAIBEeeCJq0zUQ0B8w" id="(0.33342019159871583,-1.9862299667458576E-16)"/>
+  </edges>
+</umlnotation:UMLDiagram>
